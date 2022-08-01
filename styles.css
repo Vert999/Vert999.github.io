@@ -1,0 +1,21 @@
+html {
+	size: 100%;
+}
+
+.container {
+	background-color: white;
+	
+	margin-top: 70px;
+	margin-bottom: 0px;
+	text-align: center;
+
+}
+.heading {
+	border: 4px solid gray;
+	padding: 50px;
+	
+}
+.nav-item {
+	border-left: 1px solid #d1d1d1;
+	border-right: 1px solid #d1d1d1;
+}
